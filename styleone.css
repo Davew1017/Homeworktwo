@@ -1,0 +1,105 @@
+
+body {
+    background-image: "C:\Users\davew\Desktop\BPort\page 1\criss-cross.png";
+    background-color: beige;
+}
+
+.div1 {
+    width: 100%;
+    height: 60px;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 125px;
+    margin-bottom: 2px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px 5px 10px 20px;
+    margin-top: -10px;
+    margin-left: 10%;
+    width: 230px;
+    height: 50px;
+    float: left;
+    font-size: 28px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.topnav {
+    float: right;
+    margin-top: 25px;
+    margin-right: 23%;
+}
+
+.topnav a {
+    color: #777777;
+    margin-bottom: 0px;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 0px;
+}
+
+
+#AboutMe {
+    clear: both; 
+    background-color: #ffffff;
+    width: 960px;
+    margin-top: 50px;
+    margin-left: 11%;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 30px #dddddd;
+}
+
+hr {
+    margin-left: 10px;
+}
+
+h2 {
+    color: #4aaaa5;
+    margin-left: 10px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 28px;
+}
+
+img {
+    float: left;
+    margin-left: 10px;
+    height: 100px;
+    width: 120px;
+}
+
+p {
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+p.para1 {
+    margin-left: 135px;
+}
+
+p.para2 {
+    margin-left: 13px;
+}
+
+p.para3 {
+    margin-left: 13px;
+}
+
+footer {
+    margin-top: 20%;
+    background-color: #666666;
+    clear: both;
+    width: 100%;
+    color: #777777;
+    border-top: 10px solid #4aaaa5;
+    margin-bottom: 0;
+    height: 30px;
+    text-align: center;
+    padding: 20px 20px 0px 20px;
+    font-size: 12px;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
